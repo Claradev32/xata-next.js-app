@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Emerenini-Cynthia-Ngozi-s-workspace-l0v0ft.us-west-2.xata.sh/db/todo",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}
